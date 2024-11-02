@@ -1,5 +1,3 @@
-# heladeria-emily
-
 # Heladería Emily 🍦
 
 ¡Bienvenidos a **Heladería Emily**! Un espacio donde la pasión por el helado se encuentra con los ingredientes frescos y la innovación. Nuestra misión es ofrecer una experiencia única, deliciosa y memorable en cada bocado.
