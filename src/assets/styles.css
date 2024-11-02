@@ -1,0 +1,94 @@
+/* src/assets/styles.css */
+body {
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f5f8;
+  color: #333;
+}
+
+/* Estilos del Header */
+.header {
+  width: 100%;
+  background-color: #f8f5f8;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 1rem 0;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Logo a la izquierda */
+.logo {
+  display: flex;
+  align-items: center;
+  margin-right: auto; /* Empuja el logo hacia la izquierda */
+}
+
+.logo-image {
+  width: 50px; /* Tamaño optimizado del logo */
+  margin-right: 0.5rem;
+}
+
+.logo-text {
+  font-family: 'Cursive', sans-serif;
+  font-size: 1.8rem;
+  color: #b56b84;
+  margin: 0;
+  font-weight: bold;
+}
+
+/* Enlaces de navegación centrados */
+.nav-links {
+  display: flex;
+  gap: 1.2rem;
+  background-color: #e7d9de;
+  padding: 0.5rem 1rem;
+  border-radius: 30px;
+  margin: 0 auto; /* Centra los enlaces de navegación */
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #7d3b4a;
+  font-weight: bold;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  border-radius: 20px;
+}
+
+.nav-links a:hover,
+.nav-links a.router-link-exact-active {
+  background-color: #b56b84;
+  color: #fff;
+}
+
+/* Ícono del carrito a la derecha */
+.cart-icon {
+  position: relative;
+  cursor: pointer;
+  font-size: 1.5rem;
+  color: #b56b84;
+  display: flex;
+  align-items: center;
+  margin-left: auto; /* Empuja el carrito hacia la derecha */
+}
+
+.cart-count {
+  position: absolute;
+  top: -8px;
+  right: -10px;
+  background-color: #b56b84;
+  color: white;
+  font-size: 0.8rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 50%;
+  font-weight: bold;
+}

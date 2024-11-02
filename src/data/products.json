@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1",
+    "name": "Helado de Chocolate",
+    "description": "Un helado intenso y cremoso elaborado con chocolate de la mejor calidad.",
+    "image": "CHOCOLATE.jpg",
+    "price": 5.99,
+    "ingredients": ["Cacao", "Leche", "Azúcar"],
+    "availability": "Disponible"
+  },
+  {
+    "id": "2",
+    "name": "Helado de Fresa",
+    "description": "Fresco y dulce, preparado con fresas naturales de temporada.",
+    "image": "FRESA.jpg",
+    "price": 5.49,
+    "ingredients": ["Fresas", "Leche", "Azúcar"],
+    "availability": "Disponible"
+  },
+  {
+    "id": "3",
+    "name": "Helado de Limón",
+    "description": "Refrescante y ácido, perfecto para los días calurosos.",
+    "image": "LIMON.jpg",
+    "price": 4.99,
+    "ingredients": ["Limón", "Leche", "Azúcar"],
+    "availability": "Disponible"
+  },
+  {
+    "id": "4",
+    "name": "Helado de Coco",
+    "description": "Exótico y suave, hecho con pulpa de coco natural.",
+    "image": "COCO.jpg",
+    "price": 5.29,
+    "ingredients": ["Coco", "Leche", "Azúcar"],
+    "availability": "Limitado"
+  },
+  {
+    "id": "5",
+    "name": "Helado de Menta",
+    "description": "Fresco y vibrante, con un toque refrescante de menta.",
+    "image": "MENTA.jpg",
+    "price": 6.99,
+    "ingredients": ["Menta", "Leche", "Azúcar"],
+    "availability": "Disponible"
+  },
+  {
+    "id": "6",
+    "name": "Helado de Vainilla",
+    "description": "Clásico y suave, hecho con auténtica vainilla.",
+    "image": "Vainilla.jpg",
+    "price": 5.99,
+    "ingredients": ["Vainilla", "Leche", "Azúcar"],
+    "availability": "Disponible"
+  },
+  {
+    "id": "7",
+    "name": "Helado de Mango",
+    "description": "Exótico y refrescante, elaborado con mangos frescos.",
+    "image": "MANGO.jpg",
+    "price": 5.29,
+    "ingredients": ["Mango", "Leche", "Azúcar"],
+    "availability": "Limitado"
+  },
+  {
+    "id": "8",
+    "name": "Helado de Pistacho",
+    "description": "Suave y cremoso, con un sabor a pistacho inconfundible.",
+    "image": "PISTACHO.jpg",
+    "price": 6.49,
+    "ingredients": ["Pistacho", "Leche", "Azúcar"],
+    "availability": "Disponible"
+  },
+  {
+    "id": "9",
+    "name": "Helado de Nuez",
+    "description": "Un toque crujiente de nuez en cada bocado.",
+    "image": "NUEZ.jpg",
+    "price": 6.99,
+    "ingredients": ["Nuez", "Leche", "Azúcar"],
+    "availability": "Disponible"
+  },
+  {
+    "id": "10",
+    "name": "Helado de Café",
+    "description": "Aromático y con un toque de energía, preparado con café colombiano.",
+    "image": "CAFE.jpg",
+    "price": 6.99,
+    "ingredients": ["Café", "Leche", "Azúcar"],
+    "availability": "Disponible"
+  }
+]
+
